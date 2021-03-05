@@ -29,6 +29,6 @@
     height: 1px;
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc)">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunan073&show_icons=true&locale=en&layout=compact" alt="sunan073" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunan073&show_icons=true&locale=en&layout=compact" alt="sunan073" width="495"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunan073&" alt="sunan073" /></p>
